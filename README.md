@@ -3,6 +3,35 @@
 Complete the tasks in the Python Notebook in this repository.
 Make sure to add and push the pkl or text file of your scraped html (this is specified in the notebook)
 
+## Getting started
+Add student name and GitHub repo link 
+
+## Install necessary dependencies
+* Create and activate a Python virtual environment. 
+* Before starting the project, try all these imports FIRST
+* Address any errors you get running this code cell 
+* by installing the necessary packages into your active Python environment.
+* Try to resolve issues using your materials and the web.
+* If that doesn't work, ask for help in the discussion forums.
+* You can't complete the exercises until you import these - start early! 
+* We also import pickle and Counter (included in the Python Standard Library).
+
+from collections import Counter
+import pickle
+import requests
+import spacy
+from bs4 import BeautifulSoup
+import matplotlib.pyplot as plt
+
+!pip list
+print('All prereqs installed')
+
+## Verify everything imported correctly, troubleshoot as necessary
+
+## Add question labels to all questions
+
+
+
 ## Rubric
 
 * (Question 1) Article html stored in separate file that is committed and pushed: 1 pt
