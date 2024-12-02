@@ -4,7 +4,8 @@ Complete the tasks in the Python Notebook in this repository.
 Make sure to add and push the pkl or text file of your scraped html (this is specified in the notebook)
 
 ## Getting started
-Add student name and GitHub repo link 
+
+Fork (copy into your GitHub account) and clone down (to your machine) this repo to get started with web scraping.
 
 ## Install necessary dependencies
 * Create and activate a Python virtual environment. 
@@ -28,11 +29,23 @@ print('All prereqs installed')
 
 ## Verify everything imported correctly, troubleshoot as necessary
 
-## Add question labels to all questions
+## Open Notebook and Complete Tasks
+On your machine, open the Jupyter Notebook for editing.
+Required: In your Markdown introduction, add a viewable, clickable link to your GitHub repo after your name.
+Build your brand and make your Markdown introduction clear and professional.
+Required: Use Markdown headings (e.g. Question 1) to clearly show your content by each question number.
+Complete the first task.
+Execute the notebook. Commit and push to GitHub. Verify your notebook appears correctly.
+Complete the second task.
+Execute the notebook. Commit and push to GitHub. Verify your notebook appears correctly.
+Work this way until all tasks have been completed.
+Add packages as needed if you are missing any. 
 
 
+## Export to HTML and Finalize Repo
+Execute each notebook. After executing, export each notebook to HTML. Commit and push your HTML files to your GitHub repo along with the executed notebooks. Verify you have a professional README.md that introduces your GitHub repository and provides helpful information about your project.
 
-## Rubric
+## Rubric for grading
 
 * (Question 1) Article html stored in separate file that is committed and pushed: 1 pt
 * (Question 2) Article text is correct: 1 pt
